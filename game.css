@@ -1,0 +1,22 @@
+body{
+    background-image: url('1.jpg');
+    background-size: cover;
+    margin: 200px;
+}
+.container{
+    background-color: grey;
+    width: 350px;
+    height: 160px;
+    border-radius: 10px;
+    
+}
+button:hover{
+    background-color: lightskyblue;
+}
+h2{
+    background-color: black;
+    color: aliceblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
